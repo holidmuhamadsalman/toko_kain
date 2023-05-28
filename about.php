@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Digitf</title>
+  <title>About Us</title>
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css"
